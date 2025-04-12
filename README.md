@@ -76,7 +76,7 @@ You can also get more information like *raw_img/boudingbox/score/class_id* from 
 1. Clone the repository recursively:
 
    ```bash
-   git clone --recurse-submodules https://github.com/pmj110119/YOLOX_deepsort_tracker.git
+   git clone --recurse-submodules [https://github.com/pmj110119/YOLOX_deepsort_tracker.git](https://github.com/drunkenstien/Real-Time-Multi-Object-Tracking-Enhancement-through-YOLOX-and-DeepSORT-Fusion-for-Robust-Video-Surve.git)
    ```
 
    If you already cloned and forgot to use `--recurse-submodules` you can run `git submodule update --init`
