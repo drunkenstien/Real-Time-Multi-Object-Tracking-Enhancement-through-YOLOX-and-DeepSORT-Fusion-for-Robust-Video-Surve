@@ -1,4 +1,4 @@
-# YOLOX_deepsort_tracker
+# Real-Time Multi-Object Tracking Enhancement through YOLOX and DeepSORT Fusion for Robust Video Surveillance
 
 <div align="center">
 <p>
